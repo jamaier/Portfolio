@@ -13,15 +13,14 @@ body {
 .cont2 img {
   display: flex;
   max-width: 30vh;
-  justify-content: flex-start;
   border-radius: 10px;
-  
 }
 
-.cont2 .cont3 {
+.cont2 {
   display: flex;
-  flex-direction: column;
-  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  padding-right: 150px;
+  flex: 1;
 }
 
 .cont4 {
