@@ -45,11 +45,22 @@ div.container-2 {
 
 .container-4 {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .box1 {
   flex-direction: column;
   justify-content: center;
+}
+
+.box2 {
+  flex-direction: column;
+}
+
+.container-6 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 150px;
 }
 
