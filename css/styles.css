@@ -43,6 +43,7 @@ li {
 }
 
 .about-me {
+  font-size: 20px;
   border: 2px solid gray;
   border-radius: 8px;
   display: flex;
@@ -53,6 +54,7 @@ li {
 }
 
 .background {
+  font-size: 20px;
   border: 2px solid gray;
   border-radius: 8px;
   display: flex;
@@ -64,6 +66,7 @@ li {
 }
 
 .current {
+  font-size: 20px;
   border: 2px solid gray;
   border-radius: 8px;
   display: flex;
@@ -81,6 +84,7 @@ li {
 }
 
 .more {
+  font-size: 20px;
   border: 2px solid gray;
   border-radius: 8px;
   display: flex;
