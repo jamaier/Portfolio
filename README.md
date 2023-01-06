@@ -8,12 +8,13 @@
 
 * _HTML_
 * _CSS_
+* _BOOTSTRAP_
 * _GIT_
 * _GitHub Pages_
 
 ## Description
 
-_This webpage is a baseline portfolio with written in HTML and CSS to showcase my CURRENT abilities. It has links to a number of my current projects and GitHub pages to view and clone if you wish._
+_This webpage is a baseline portfolio with written in HTML, CSS and bootstrap to showcase my current abilities. It has links to a number of my current projects and GitHub pages to view and clone if you wish._
 
 ## Setup/Installation Requirements
 
