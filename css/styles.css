@@ -1,14 +1,26 @@
 body {
   background-color: #13171c;
   color: white;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
   font-family: sans-serif;
 }
 
+a {
+  color: #f75c4a;
+}
+
+li {
+  color: #f75c4a;
+}
+
 .top-bar {
+  border: 2px solid gray;
+  border-radius: 8px;
+  font-size: 20px;
   display: flex;
-  justify-content: space-around
+  justify-content: space-around;
+  margin: 20px;
 }
 
 #image {
@@ -24,28 +36,39 @@ body {
 }
 
 .name {
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
+  color: #f75c4a;
 }
 
 .about-me {
+  border: 2px solid gray;
+  border-radius: 8px;
   display: flex;
   justify-content:space-around;
   padding-left: 40px;
   padding-right: 40px;
+  margin: 20px;
 }
 
 .background {
+  border: 2px solid gray;
+  border-radius: 8px;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-left: 100px;
   padding-right: 100px;
+  margin: 20px;
 }
 
 .current {
+  border: 2px solid gray;
+  border-radius: 8px;
   display: flex;
   justify-content: space-around;
+  margin: 20px;
 }
 
 .box1 {
@@ -58,9 +81,12 @@ body {
 }
 
 .more {
+  border: 2px solid gray;
+  border-radius: 8px;
   display: flex;
   justify-content: center;
   flex-direction: column;
   padding-left: 150px;
+  margin: 20px;
 }
 
