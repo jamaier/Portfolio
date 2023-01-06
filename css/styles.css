@@ -5,30 +5,7 @@ body {
   padding-right: 30px;
 }
 
-.cont1 {
+div.container {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-around
 }
-
-.cont2 img {
-  display: flex;
-  max-width: 30vh;
-  border-radius: 10px;
-}
-
-.cont2 {
-  display: flex;
-  justify-content: space-around;
-  padding-right: 150px;
-  flex: 1;
-}
-
-.cont4 {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.cont5 {
-  display: flex;
-}
-
