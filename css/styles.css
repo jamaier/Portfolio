@@ -7,11 +7,8 @@ body {
 }
 
 a {
-  color: #f75c4a;
-}
-
-li {
-  color: #f75c4a;
+  color: #fa0000;
+  text-decoration: none;
 }
 
 .top-bar {
