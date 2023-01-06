@@ -24,8 +24,11 @@ li {
 }
 
 #image {
-  display: flex;
-  max-width: 30vh;
+  max-width: 25%;
+  max-height: 25%;
+  object-fit: contain;
+  min-width: 200px;
+  min-height: 100px;
   border-radius: 10px;
   margin: 30px;
 }
@@ -92,4 +95,23 @@ li {
   flex-direction: column;
   padding-left: 150px;
   margin: 20px;
+}
+
+@media screen and (min-width: 781px) {
+  .column {
+    width: 350px;
+    padding: 25px;
+  }
+}
+
+@media screen and (max-width: 780px) and (min-width: 500px) {
+  body {
+    background-color: #13171c;
+  }   
+}
+
+@media screen and (max-width: 499px) {
+  body {
+ background-color: #13171c;
+  }
 }
