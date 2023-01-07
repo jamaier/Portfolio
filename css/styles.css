@@ -18,7 +18,7 @@ a {
   display: flex;
   justify-content: space-around;
   margin: 20px;
-  padding-top: 20px;
+  padding-top: 30px;
 }
 
 #last {
@@ -55,6 +55,7 @@ a {
   justify-content: space-around;
   padding-left: 40px;
   padding-right: 40px;
+  padding-top: 20px;
   margin: 20px;
 }
 
@@ -67,6 +68,7 @@ a {
   align-items: center;
   padding-left: 100px;
   padding-right: 100px;
+  padding-top: 20px;
   margin: 20px;
 }
 
@@ -76,6 +78,7 @@ a {
   border-radius: 8px;
   display: flex;
   justify-content: space-around;
+  padding-top: 20px;
   margin: 20px;
 }
 
@@ -96,6 +99,7 @@ a {
   justify-content: center;
   flex-direction: column;
   padding-left: 150px;
+  padding-top: 20px;
   margin: 20px;
 }
 
