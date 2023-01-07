@@ -18,6 +18,11 @@ a {
   display: flex;
   justify-content: space-around;
   margin: 20px;
+  padding-top: 20px;
+}
+
+#last {
+  color: rgb(248, 75, 75);
 }
 
 #image {
