@@ -25,7 +25,7 @@ _This webpage is a baseline portfolio with written in HTML, CSS and bootstrap to
 
 ## Known Bugs
 
-* _N/A_
+* _Contact link doesn't lead anywhere yet._
 
 ## License
 
