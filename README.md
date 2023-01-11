@@ -21,6 +21,7 @@ _This webpage is a baseline portfolio with written in HTML, CSS and bootstrap to
 * _Clone this repository to your desktop_
 * _Navigate to the top level of the directory_
 * _Open index.html in your browser_
+* _Or visit the link to view on GItHub Pages here:_ https://jamaier.github.io/Portfolio/
 
 
 ## Known Bugs
